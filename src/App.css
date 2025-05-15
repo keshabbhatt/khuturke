@@ -1,0 +1,30 @@
+.font-poppins {
+	font-family: "Poppins", sans-serif;
+}
+
+.font-raleway {
+	font-family: "Raleway Variable", sans-serif;
+}
+
+.body-grid {
+	background-size: 40px 40px;
+	background-image: linear-gradient(to right, grey 1px, transparent 1px),
+		linear-gradient(to bottom, grey 1px, transparent 1px);
+}
+
+.body-dotted {
+	background-size: 40px 40px;
+	background-image: radial-gradient(circle, grey 1px, rgba(0, 0, 0, 0) 1px);
+}
+
+.text-blue {
+	color: blue;
+}
+
+.text-black {
+	color: black;
+}
+
+.text-white {
+	color: white;
+}
